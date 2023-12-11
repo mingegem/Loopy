@@ -67,3 +67,5 @@ add_executable(loopy
     ../lua/lzio.c
     ../lua/lzio.h
 )
+
+target_link_libraries(loopy m)
