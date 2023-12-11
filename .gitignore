@@ -1,1 +1,12 @@
 .DS_Store
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# loopy/Makefile
+loopy/Makefile
+
+# Executable file
+loopy/loopy
