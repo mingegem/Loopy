@@ -5,6 +5,13 @@ CMakeFiles/
 CMakeCache.txt
 cmake_install.cmake
 
+# xmake
+.xmake/
+.build_cache/
+.deps/
+.objs/
+macosx/
+
 # loopy/Makefile
 loopy/Makefile
 
