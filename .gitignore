@@ -16,6 +16,9 @@ macosx/
 # loopy/Makefile
 loopy/Makefile
 
+# /Makefile
+/Makefile
+
 # Executable file
 loopy/loopy
 
