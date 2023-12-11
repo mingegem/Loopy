@@ -11,9 +11,22 @@ cmake_install.cmake
 .deps/
 .objs/
 macosx/
+**/build/windows/
 
 # loopy/Makefile
 loopy/Makefile
 
 # Executable file
 loopy/loopy
+
+# Visual Studio
+.vs/
+*.dir/
+Debug/
+Release/
+MinSizeRel/
+RelWithDebInfo/
+*.sln
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
