@@ -4,6 +4,8 @@ project(Loopy)
 
 add_executable(loopy
     main.cpp
+    env.hpp
+    env.cpp
     ../lua/lapi.c
     ../lua/lapi.h
     ../lua/lauxlib.c
